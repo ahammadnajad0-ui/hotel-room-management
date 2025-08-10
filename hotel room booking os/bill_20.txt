@@ -1,0 +1,12 @@
+------------------------------
+     HOTEL BOOKING RECEIPT
+------------------------------
+
+Booking ID : 20
+Customer ID: 1026
+Room No    : 102
+Check-In   : 2025-08-10 15:31:28.0
+Check-Out  : 2025-08-10 15:31:51.0
+Amount Paid: ₹1500.00
+
+Thank you for choosing our hotel!
